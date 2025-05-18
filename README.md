@@ -16,6 +16,15 @@ This repository contains my personal learning notes and summaries as I study the
   - Polynomial functions as models
   - Cost function: Sum-of-squares error
   - Root Mean Square Error (Erms)
+ 
+### ✅ Day 2: Probability Theory & Bayes' Theorem
+- Derivation of **sum and product rules** using probability axioms
+- **Bayes' Theorem** for conditional probability, including matrix-based understanding
+- Introduction to **Probability Density Functions (PDFs)**
+- **Key Takeaways:**
+  - Importance of marginal, joint, and conditional probability
+  - Visualizing dependencies with matrix representations
+  - Understanding the shift from discrete to continuous probability using densities
 
 ---
 
