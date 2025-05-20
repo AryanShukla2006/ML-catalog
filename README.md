@@ -26,6 +26,13 @@ This repository contains my personal learning notes and summaries as I study the
   - Visualizing dependencies with matrix representations
   - Understanding the shift from discrete to continuous probability using densities
 
+
+### ✅ Day 3: Continuous Distributions & Bayesian View
+- Change of variable and Jacobian in probability densities
+- Expectation, variance, and covariance as statistical summaries
+- Introduction to Bayesian probability: prior, likelihood, posterior
+- Normal (Gaussian) distribution and its importance
+
 ---
 
 ## 📚 Book Overview
