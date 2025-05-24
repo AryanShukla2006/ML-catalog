@@ -33,6 +33,14 @@ This repository contains my personal learning notes and summaries as I study the
 - Introduction to Bayesian probability: prior, likelihood, posterior
 - Normal (Gaussian) distribution and its importance
 
+### ✅ Day 4: Probabilistic Curve Fitting & MLE vs MAP
+- Reformulated polynomial curve fitting as a probabilistic model using Gaussian noise
+- Learned Maximum Likelihood Estimation (MLE) via log-likelihood derivation
+- Identified MLE's limitations (overfitting, no regularization)
+- Introduced Bayesian reasoning with priors → Maximum A Posteriori (MAP) estimation
+- Hyperparameters like α (prior precision) and β (noise precision) introduced for better generalization
+
+
 ---
 
 ## 📚 Book Overview
