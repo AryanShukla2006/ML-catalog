@@ -41,6 +41,17 @@ This repository contains my personal learning notes and summaries as I study the
 - Hyperparameters like α (prior precision) and β (noise precision) introduced for better generalization
 
 
+### ✅ Day 5: Curse of Dimensionality & Decision Theory
+- Studied the "curse of dimensionality": high-dimensional spaces lead to sparse data and unreliable distance metrics
+- Introduced decision theory as a framework for optimal predictions under uncertainty
+- Explored minimizing **misclassification rate** by choosing class with highest posterior probability
+- Covered **expected loss minimization** using a loss matrix \( L_{kj} \)
+- Learned about the **reject option** — deferring decisions when confidence is low
+- Distinguished between **inference (estimating posteriors)** and **decision-making (choosing action)**
+- Reviewed **loss functions for regression**, including squared loss and absolute loss
+
+
+
 ---
 
 ## 📚 Book Overview
