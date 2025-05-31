@@ -67,7 +67,7 @@ This is a foundational text in machine learning, known for its mathematical rigo
 
 ## 🛠️ How to Use This Repository
 
-- Browse daily learning notes in the `/notes` folder (to be added progressively).
+- Browse important topics to learn in ML theory
 - Use the content as a reference for understanding core ML concepts.
 - Clone/fork the repository to maintain your own notes.
 
